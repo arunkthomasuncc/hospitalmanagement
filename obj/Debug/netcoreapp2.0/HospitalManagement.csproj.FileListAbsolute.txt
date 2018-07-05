@@ -1,0 +1,11 @@
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.AssemblyInfo.cs
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp2.0\HospitalManagement.deps.json
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp2.0\HospitalManagement.runtimeconfig.json
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp2.0\HospitalManagement.runtimeconfig.dev.json
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp2.0\HospitalManagement.dll
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.csprojAssemblyReference.cache
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp2.0\HospitalManagement.pdb
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.dll
+C:\Users\Arun\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp2.0\HospitalManagement.pdb
